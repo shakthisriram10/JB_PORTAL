@@ -152,9 +152,3 @@ To contribute:
 2. Create a feature branch
 3. Submit a pull request
 
----
-
-## ⭐ Support / Feedback
-
-If you found this project helpful, please give it a ⭐
-Let me know if you want **Level-2 features**, deployment setup, or advanced enhancements!
